@@ -12,4 +12,3 @@ print("{:.2f} Celsius = {:.2f} Fahrenheit.".format(
         f_celsius_to_fahrenheit(v_celsius)
     )
 )
-
