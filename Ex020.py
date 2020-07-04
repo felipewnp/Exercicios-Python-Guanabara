@@ -7,7 +7,7 @@ alunos = []
 nome = ""
 i = 0
 
-# Inicializa maxlistsize como tamanho máximo de int no sistema
+# Inicializa maxlistsize como tamanho máximo de int no sistema.
 maxlistsize = maxsize - 1
 
 # Loop, de tamanho maxlistsize, de inserção de dados.
